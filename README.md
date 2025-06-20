@@ -12,6 +12,10 @@ This data analysis dashboard aims at provdiing insightgs into the supply chain p
 By analyzing Products insghts, supplier performances and make data recommendations to gain deeper understanding 
 of the end-to-end supply chain management
 
+
+<img width="668" alt="image" src="https://github.com/user-attachments/assets/11ea736f-40b1-4a94-86ea-97f64cf2f759" />
+
+
 ### Data Sources
 www.Kaggle.com
 
@@ -27,6 +31,7 @@ www.Kaggle.com
   3. Data cleansing and formatting
  
   ### Exploratory Data Analysis
+  
   What is the Total Revenue by SKU?
   What is the Total Products sold?
   Which supplier has the best average lead time?
