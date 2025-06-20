@@ -67,5 +67,4 @@ I had to remove all zero values from the revenue colums and create measures to h
 2. [Stack overflow](https://stack.com)
   
   
-  
      
