@@ -23,6 +23,7 @@ www.Kaggle.com
 
 - Excel - Data cleaning [Download here](https://microsoft.com)
 - PowerBI - generating new measures, creating reports
+- Power Point
 
 
   ### Data Cleaning & Preparation
