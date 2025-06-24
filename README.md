@@ -17,7 +17,7 @@ of the end-to-end supply chain management
 
 
 ### Data Sources
-www.Kaggle.com
+https://www.kaggle.com/datasets/laurinbrechter/supply-chain-data
 
 ### Tools
 
